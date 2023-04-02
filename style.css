@@ -400,8 +400,8 @@ header .fa-bars{
 }
 
 .donate .form-container form input[type="submit"]{
-    color:#fff;
-    border-color: #fff;
+    color:green;
+    border-color: green;
 }
 
 .donate .form-container form input[type="submit"]:hover{
